@@ -3,14 +3,14 @@
 ## Table of Contents
 * [Background Information](#geninfo)
 * [For Everyone](#everyone)
-* [For Non-coders](#noncoders)
 * [For Data Scientists (or Would-be Coders)](#datascis)
 
 ---
 
 ## Welcome!
 
-Welcome to the Every Byte Helps organization.  We are new and evolving, so we would love to hear your input on our goals and organizational musings.
+Welcome to the Every Byte Helps organization.  We are new and evolving, so we
+would love to hear your input on our goals and organizational musings.
 
 ---
 
