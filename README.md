@@ -1,6 +1,7 @@
 # Every Byte Helps Organization
 
 ## Table of Contents
+
 * [Background Information](#geninfo)
 * [For Everyone](#everyone)
 * [For Data Scientists (or Would-be Coders)](#datascis)
@@ -15,7 +16,6 @@ would love to hear your input on our goals and organizational musings.
 ---
 
 ##FAQ
----
 
 ###<a name="geninfo"/> Background Information
 
