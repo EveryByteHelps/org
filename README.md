@@ -54,6 +54,8 @@ Currently, our toolbox includes the following items.
 
 * Software: [R](https://www.r-project.org/)
 * Version Control: [Git](http://git-scm.com/)/[Github](https://github.com/everybytehelps)
+* Story management: [Waffle.io](https://waffle.io/)
+* Documentation/Technical writing: [Google Docs](https://drive.google.com/)
 
 Dont worry if you're unfamiliar with any of these tools. Well help you get up and running.
 
