@@ -10,8 +10,8 @@
 
 ## Welcome!
 
-Welcome to the Every Byte Helps organization.  We are new and evolving, so we
-would love to hear your input on our goals and organizational musings.
+Welcome to the Every Byte Helps organization.  We are new and evolving, so we would love to hear your input on our goals and organizational musings.
+
 ---
 
 ##FAQ
@@ -54,15 +54,14 @@ Currently, our toolbox includes the following items.
 
 * Software: [R](https://www.r-project.org/)
 * Version Control: [Git](http://git-scm.com/)/[Github](https://github.com/everybytehelps)
-<!-- * Story management: [Waffle.io](https://waffle.io/)
-* Documentation/Technical writing: [Google Docs](https://drive.google.com/folderview?id=0B15HLk4_JV3nWjkyOGtFUmhKZDQ&usp=sharing_eid) -->
 
 Dont worry if you're unfamiliar with any of these tools. Well help you get up and running.
 
-####Who can I contact for additional questions?
+#### Who can I contact for additional questions?
 
-Get in touch with our organizers Ryan Elmore or Matt Pocernich or drop us a line at everybytehelps[at]gmail.com.  This group grew out of the R Meetup, so we're likely
-to be there if you don't know how to get in touch with us.
+Get in touch with our organizers Ryan Elmore or Matt Pocernich or drop us a line
+at everybytehelps[at]gmail.com.  This group grew out of the R Meetup, so we're likely to be
+there if you don't know how to get in touch with us.
 
 ---
 <!-- ### <a name="noncoders"/>For Non-coders
@@ -75,9 +74,7 @@ Yes! As long as you are willing to collaborate and engage there are numerous way
 
 See our [CONTRIBUTING](https://github.com/codefordenver/org/blob/master/CONTRIBUTING.md) document. -->
 
-
----
-### <a name="datascis"/>For Data Scientists)
+### <a name="datascis"/>For Data Scientists
 
 #### How do I dive into a project?
 
