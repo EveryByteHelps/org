@@ -20,17 +20,25 @@ would love to hear your input on our goals and organizational musings.
 ###<a name="geninfo"/> Background Information
 
 #### What is Every Byte Helps?
+We are living in a data-driven world.  Unfortunately, a lot of
+non-profits and government organizations simply do not have the resources to
+fully exploit their data.  That's where we step in.  We serve as the conduit
+between these organizations and folks in the data scientist community who are
+interested in skills-based volunteering.
 
 <!-- Generally speaking, we work with nonprofits or local government in three month blocks, building apps or websites that serve their needs. Who we work with and what issues we address are determined at our annual CodeAcross Denver event, scheduled at the beginning of the year. To stay on top of the things throughout the year, we host regular meetups (weekly and bi-weekly) to manage things and work on current projects. -->
 
 
 #### How do you differ from other code for X organizations?
+Our mission is similar to [DataKind](www.datakind.org) and, in fact we grew out
+of a failed DataKind Chapter application. Our mission differs with DataKind in
+that we focused on helping our local area, Colorado and the Rocky Mountain
+Region).
 
-<!-- Though we are part of Code for Americas Brigade, Code for Denver is more of an independent and locally-focused organization. As such, we are not given any guidelines to follow regarding how we operate or the like, but we do receive some sponsorship from Code for America. -->
-
----
-
-###<a name="everyone"/>For Everyone
+We differ from other organizations that you may know, e.g. Code for America,
+Code for Colorado, etc., in that we are focused on solving data issues.  This
+includes data analysis, reporting, survey design and analysis, among many other
+fascinating topics.  
 
 
 #### So how do I get involved?
