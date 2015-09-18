@@ -26,6 +26,10 @@ fully exploit their data.  That's where we step in.  We serve as the conduit
 between these organizations and folks in the data scientist community who are
 interested in skills-based volunteering.
 
+Ideally, our projects will last approximately 1 - 1.5 months from the kick-off
+meeting through the final deliverables.  This, of course, is not set in stone
+given that we are working on a strictly *pro bono* basis.
+
 <!-- Generally speaking, we work with nonprofits or local government in three month blocks, building apps or websites that serve their needs. Who we work with and what issues we address are determined at our annual CodeAcross Denver event, scheduled at the beginning of the year. To stay on top of the things throughout the year, we host regular meetups (weekly and bi-weekly) to manage things and work on current projects. -->
 
 
