@@ -4,7 +4,7 @@
 
 * [Background Information](#geninfo)
 * [For Everyone](#everyone)
-* [For Data Scientists (or Would-be Coders)](#datascis)
+* [For Statisticians and/or Data Scientists](#datascis)
 
 ---
 
